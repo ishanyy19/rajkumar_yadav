@@ -1,0 +1,47 @@
+html{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    margin:0 1.5rem;
+}
+header h1{
+    font-weight: 400;
+}
+header h1:hover{
+    color: goldenrod;
+}
+nav{
+    width: 15rem;
+    position: relative;
+    top:1rem;
+    right: 3rem;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly; 
+
+}
+li{
+    list-style: none;
+    font-size: 1.5rem;
+}
+a{
+    color:black;
+    text-decoration:wavy;
+}
+a:hover{
+    color:goldenrod;
+}
+
+.frontImage{
+    width : 95vw;
+    margin:1rem
+
+}
+article{
+    display: flex;
+    margin: 0 2rem;
+    font-size: 1.2em;
+}
