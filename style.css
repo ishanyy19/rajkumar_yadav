@@ -13,12 +13,13 @@ header h1:hover{
     color: goldenrod;
 }
 nav{
-    width: 15rem;
+    width: 20rem;
     position: relative;
     top:1rem;
-    right: 3rem;
+    right: 1rem;
 }
 ul{
+    
     display: flex;
     justify-content: space-evenly; 
 
